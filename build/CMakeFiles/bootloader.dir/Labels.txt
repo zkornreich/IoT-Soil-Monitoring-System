@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Binghamton/Masters_Year/IoT/Round2/tutorial/build/CMakeFiles/bootloader
+C:/Binghamton/Masters_Year/IoT/Round2/tutorial/build/CMakeFiles/bootloader.rule
+C:/Binghamton/Masters_Year/IoT/Round2/tutorial/build/CMakeFiles/bootloader-complete.rule
+C:/Binghamton/Masters_Year/IoT/Round2/tutorial/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Binghamton/Masters_Year/IoT/Round2/tutorial/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Binghamton/Masters_Year/IoT/Round2/tutorial/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Binghamton/Masters_Year/IoT/Round2/tutorial/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Binghamton/Masters_Year/IoT/Round2/tutorial/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Binghamton/Masters_Year/IoT/Round2/tutorial/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Binghamton/Masters_Year/IoT/Round2/tutorial/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
